@@ -6,7 +6,7 @@ string fun(int A[], int n, int x){
         if(A[i] == x)
             return "YES";
     }
-    return "NO";
+    return "Noo";
 }
 
 int main() {
